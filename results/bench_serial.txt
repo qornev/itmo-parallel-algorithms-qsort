@@ -1,5 +1,20 @@
-14,39
-14,03
-13,55
-13,73
-13,68
+Sorting 100000000 integers
+Time: 12483 millisec
+All values are sorted in ascending order
+
+Sorting 100000000 integers
+Time: 12391 millisec
+All values are sorted in ascending order
+
+Sorting 100000000 integers
+Time: 12533 millisec
+All values are sorted in ascending order
+
+Sorting 100000000 integers
+Time: 12413 millisec
+All values are sorted in ascending order
+
+Sorting 100000000 integers
+Time: 12686 millisec
+All values are sorted in ascending order
+
